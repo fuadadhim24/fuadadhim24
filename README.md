@@ -22,8 +22,8 @@
 
 <hr>
 <div style="display: flex;">
-    <p style="margin-left: 15px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fuadadhim24&show_icons=true&locale=en&theme=radical" alt="fuadadhim24" /></p>
-    <p style="margin-right: 15px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadadhim24&show_icons=true&locale=en&layout=compact&theme=radical" alt="fuadadhim24" /></p>
+    <p style="margin-left: 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fuadadhim24&show_icons=true&locale=en&theme=radical" alt="fuadadhim24" /></p>
+    <p style="margin-right: 10px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadadhim24&show_icons=true&locale=en&layout=compact&theme=radical" alt="fuadadhim24" /></p>
 </div>
 
 
