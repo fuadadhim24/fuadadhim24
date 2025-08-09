@@ -2,7 +2,7 @@
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 
-<h4>👋 Hi, I'm Fuad, a Software Engineer from Indonesia who loves diving into new tech and learning something new every day.<h4>
+<h2>👋 Hi, I'm Fuad, a Software Engineer from Indonesia who loves diving into new tech and learning something new every day.<h4>
 
 
 ![Fuad`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fuadadhim24&theme=github-compact)
