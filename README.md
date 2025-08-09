@@ -29,7 +29,7 @@
 
 ## Let's colab 🚀
 
-🌟 🌟 I'm excited to connect and collaborate on creative tech projects! If you're working on something cool or just want to chat ideas, hit me up through the links below.
+🌟 I'm excited to connect and collaborate on creative tech projects! If you're working on something cool or just want to chat ideas, hit me up through the links below.
 
 <p>
   <a href="mailto:fuadadhim24@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
