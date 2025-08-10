@@ -22,9 +22,9 @@
  </p>
 
 <hr>
-<a href="https://github.com/fuadadhim24">
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 12.6667%;"><iframe src="https://tenor.com/embed/16517045" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media *;"></iframe></div>
-</a>
+<!-- <a href="https://github.com/fuadadhim24">
+<img src="https://tenor.com/view/line-colors-purple-divider-gif-16517045" width="100%" height="2px"  />
+</a> -->
 <br><br>
 
 <p align="center">
@@ -37,9 +37,9 @@
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuadadhim24&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=radical" " alt="fuadadhim24" /></p>
 
-<a href="https://github.com/fuadadhim24">
+<!-- <a href="https://github.com/fuadadhim24">
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 12.6667%;"><iframe src="https://tenor.com/embed/16517045" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media *;"></iframe></div>
-</a>
+</a> -->
 
 
 
