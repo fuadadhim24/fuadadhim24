@@ -30,12 +30,12 @@
 <p align="center">
  <br/>
 <a href="https://github.com/fuadadhim24"><img align="center" width ="%" src="https://img.shields.io/github/followers/fuadadhim24?logo=github&logoColor=fe438e&labelColor=01102d&color=fe438e&style=for-the-badge"></a>
-<div style="display: flex; gap: 5px; align-items:center">
+<div style="display: flex; align-items:center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuadadhim24&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=radical"  alt="fuadadhim24" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadadhim24&show_icons=true&line_height=24&rank_icon=github&show=discussions_answered&theme=radical"  alt="fuadadhim24" /></p>
 
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuadadhim24&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=radical" " alt="fuadadhim24" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuadadhim24&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=radical" " alt="fuadadhim24" widht="100%"/></div>
 
 <!-- <a href="https://github.com/fuadadhim24">
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 12.6667%;"><iframe src="https://tenor.com/embed/16517045" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media *;"></iframe></div>
