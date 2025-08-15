@@ -3,18 +3,13 @@
 
 
 <h2>👋 Hi, I'm Fuad, a Software Engineer from Indonesia who loves diving into new tech and learning something new every day.<h4>
-
-
-![Fuad`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fuadadhim24&theme=github-compact)
-
-
 <br>
 
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
-<h2 align="center" > 💫 Languages - Frameworks - Tools - Libraries - Workspace 💫</h2>
+<h3 align="center" > 💫 Languages - Frameworks - Tools - Libraries - Workspace 💫</h3>
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,react,nextjs,nodejs,laravel,flask,firebase,tailwind,python,js,vscode,figma,git,postman,github,gitlab,vscode,mongodb,mysql" 
@@ -90,10 +85,8 @@
   [![Fuad's github streak](https://github-readme-streak-stats.herokuapp.com/?user=fuadadhim24&theme=radical&card_width=1000)](https://github.com/fuadadhim24)
 
 </br>
-<a href="https://github.com/fuadadhim24">
-<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_01102D/columns_8/maxflags_250/viewers_++Profile+Views+since+25+Mei+2025/labels_1/page_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=fuadadhim24&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/fuadadhim24) </br>
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=fuadadhim24&theme=radical&hide_border=true&area=true&bg_color=01102d&color=fe438e&line=fe438e&point=ffffff)](https://github.com/fuadadhim24) </br>
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=fuadadhim24&column=8&margin-w=20&margin-h=20&no-frame=true&theme=radical&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/fuadadhim24) 
 </div>
 
