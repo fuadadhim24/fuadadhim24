@@ -1,6 +1,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fuadadhim24&data=followers,repositories,stars,commits&theme=radical)](https://github.com/yeazin)
-<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 <h2>👋 Hi, I'm Fuad, a Software Engineer from Indonesia who loves diving into new tech and learning something new every day.<h4>
 <br>
@@ -12,8 +12,7 @@
 <h3 align="center" > 💫 Languages - Frameworks - Tools - Libraries - Workspace 💫</h3>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,react,nextjs,nodejs,laravel,flask,firebase,tailwind,python,js,vscode,figma,git,postman,github,gitlab,vscode,mongodb,mysql" 
-
+    <img src="https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,androidstudio,react,nextjs,vue,tailwind,bootstrap,nodejs,laravel,flask,php,go,supabase,jquery,ts,threejs,python,js,vscode,figma,git,postman,github,gitlab,mongodb,postgres,mysql">
  </p>
 
 <hr>
@@ -37,12 +36,9 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a> -->
 
- 
 <p align="center">
  <br/>
 <a href="https://github.com/fuadadhim24"><img align="center" width ="%" src="https://img.shields.io/github/followers/fuadadhim24?logo=github&logoColor=fe438e&labelColor=01102d&color=fe438e&style=for-the-badge"></a>
-
-
 
  <p align="center">
 <a href="https://github.com/fuadadhim24">
@@ -52,14 +48,10 @@
 </a>
 
 <br/>
- 
 
 </p >
 
-
  <!--More Stats-->
-
- 
 
 <details open align="center">
   <summary>📈 More Stats</summary>
@@ -75,7 +67,6 @@
  <a href="https://github.com/fuadadhim24"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuadadhim24&theme=radical" width="100%" /> </br></br>
 
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuadadhim24&theme=radical" width="31%" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuadadhim24&theme=radical" width="31%" align="right" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fuadadhim24&theme=radical" width="31%" align="center" title="🦉 Night owl" />  
@@ -87,21 +78,18 @@
 </br>
 
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=fuadadhim24&theme=radical&hide_border=true&area=true&bg_color=01102d&color=fe438e&line=fe438e&point=ffffff)](https://github.com/fuadadhim24) </br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=fuadadhim24&column=8&margin-w=20&margin-h=20&no-frame=true&theme=radical&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/fuadadhim24) 
-</div>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=fuadadhim24&column=8&margin-w=20&margin-h=20&no-frame=true&theme=radical&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/fuadadhim24)
 
+</div>
 
  <div align="center">
 </p >
 
 </details>
 
-
 <!-- <a href="https://github.com/fuadadhim24">
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 12.6667%;"><iframe src="https://tenor.com/embed/16517045" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media *;"></iframe></div>
 </a> -->
-
-
 
 ## Let's colab 🚀
 
@@ -113,4 +101,3 @@
   <a href="https://linkedin.com/in/fuadadhim24" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
   <a href="https://instagram.com/in/fuadadhim24_" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Instagram-D300C5?style=flat-square&logo=instagram&logoColor=white" />
 </p>
-
